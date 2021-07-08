@@ -517,6 +517,8 @@ section .title::after{
   display: flex;
   align-items: center;
 }
+
+
 .right form .button-area button{
   color: #fff;
   display: block;
