@@ -1,0 +1,16 @@
+{
+  "name": "responsive-portfolio-website",
+  "version": "1.0.0",
+  "description": "This is a Porfolio website of mine ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "Karthikeyan",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
