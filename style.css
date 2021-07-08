@@ -464,6 +464,17 @@ section .title::after{
     height: 65px;
     align-items: center;
 }
+/*.contact .contact-content .roow{
+    color: crimson;
+    display:inline-block;
+    padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+    
+}*/
 .contact .contact-content .row .info{
     margin-left: 30px;
 }
@@ -471,6 +482,12 @@ section .title::after{
     font-size: 25px;
     color: crimson;
 }
+.contact .contact-content .row a{
+   color: black;
+}
+.contact .contact-content .row a:hover{
+    color: crimson;    
+ }
 .contact .contact-content .info .head{
     font-weight: 500;
 }
